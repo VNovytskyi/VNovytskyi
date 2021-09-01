@@ -1,7 +1,8 @@
 ### Hi there 👋
-Sheller, ShellerArduinoEdition <br>
-Porter<br>
-Serial<br>
+My projects⚡<br>
+* Integrity guarantee: [Sheller](https://github.com/VNovytskyi/Sheller), [ShellerArduinoEdition](https://github.com/VNovytskyi/ShellerArduinoEdition)<br>
+* Delivery guarantee: [Porter](https://github.com/VNovytskyi/Porter)<br>
+* Desktop applications: [ShellerTerminal](https://github.com/VNovytskyi/ShellerTerminal)<br>
 <!--
 **VNovytskyi/VNovytskyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
