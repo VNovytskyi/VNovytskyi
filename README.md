@@ -3,8 +3,7 @@
 <a href="https://github.com/VNovytskyi/Sheller"><img width="20%" height="20%" src="https://user-images.githubusercontent.com/48761198/131650907-712454d5-490f-4473-b366-a858081859b0.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/VNovytskyi/ShellerArduinoEdition"><img width="20%" height="20%" src="https://user-images.githubusercontent.com/48761198/131650924-387b3c9c-078c-4fba-9887-5fedc440ca15.PNG"></a>
 <br><br>
-<a href="https://github.com/VNovytskyi/Porter"><img width="20%" height="20%" src="https://user-images.githubusercontent.com/48761198/131652883-b240458a-0192-428a-9985-87020f02c488.PNG"></a>
-
+<a href="https://github.com/VNovytskyi/Porter"><img width="15%" height="15%" src="https://user-images.githubusercontent.com/48761198/131653362-1ee26002-2c11-4c95-a38d-4541e6288576.png"></a>
 
 * Integrity guarantee: [Sheller](https://github.com/VNovytskyi/Sheller), [ShellerArduinoEdition](https://github.com/VNovytskyi/ShellerArduinoEdition)<br>
 * Delivery guarantee: [Porter](https://github.com/VNovytskyi/Porter)<br>
