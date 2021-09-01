@@ -5,6 +5,8 @@
 <br><br>
 <a href="https://github.com/VNovytskyi/Porter"><img width="15%" height="15%" src="https://user-images.githubusercontent.com/48761198/131653362-1ee26002-2c11-4c95-a38d-4541e6288576.png"></a>
 
+<hr>
+
 * Integrity guarantee: [Sheller](https://github.com/VNovytskyi/Sheller), [ShellerArduinoEdition](https://github.com/VNovytskyi/ShellerArduinoEdition)<br>
 * Delivery guarantee: [Porter](https://github.com/VNovytskyi/Porter)<br>
 * Desktop applications: [ShellerTerminal](https://github.com/VNovytskyi/ShellerTerminal)<br>
