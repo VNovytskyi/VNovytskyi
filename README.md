@@ -1,7 +1,7 @@
 ### Hello everybody 👋
 
-<a href="https://github.com/VNovytskyi/Sheller">![logo](https://user-images.githubusercontent.com/48761198/131649598-e4da34df-55bb-4775-905b-95e269a1bb86.png)</a>
-
+<a href="https://github.com/VNovytskyi/Sheller">1</a><br>
+<a href="https://github.com/VNovytskyi/ShellerArduinoEdition">1</a>
 
 My projects⚡<br>
 * Integrity guarantee: [Sheller](https://github.com/VNovytskyi/Sheller), [ShellerArduinoEdition](https://github.com/VNovytskyi/ShellerArduinoEdition)<br>
