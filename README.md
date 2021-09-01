@@ -1,7 +1,7 @@
 ### Hi there 👋
-Sheller, ShellerArduinoEdition
-Porter
-Serial
+Sheller, ShellerArduinoEdition <br>
+Porter<br>
+Serial<br>
 <!--
 **VNovytskyi/VNovytskyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
