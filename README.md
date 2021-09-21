@@ -1,5 +1,5 @@
 
-<hr>
+
 <a href="https://github.com/VNovytskyi/Sheller"><img width="20%" height="20%" src="https://user-images.githubusercontent.com/48761198/131650907-712454d5-490f-4473-b366-a858081859b0.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/VNovytskyi/ShellerArduinoEdition"><img width="20%" height="20%" src="https://user-images.githubusercontent.com/48761198/131650924-387b3c9c-078c-4fba-9887-5fedc440ca15.PNG"></a>
 <br><br>
